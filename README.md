@@ -1,2 +1,1 @@
-# market-engine-stock
-Market Engine Stock Service
+# Market Engine Stock Service
