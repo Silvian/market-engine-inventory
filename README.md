@@ -1,1 +1,1 @@
-# Market Engine Stock Service
+# Market Engine Inventory Service
